@@ -23,6 +23,9 @@ body {
   max-width: 100%;
   border-radius: 0.5rem
 }
+.info {
+  padding: 20px
+}
 .title {
   font-size: 1.52rem;
   margin: 1.3rem 0;
