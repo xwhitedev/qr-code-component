@@ -20,16 +20,11 @@ body {
   text-align: center
 }
 .qrcode {
-  background: hsl(220, 15%, 55%) url(img/qr.png) center/cover;
-  width: calc(100vw - 80px);
-  height: calc(100vw - 80px);
-  max-width: 300px;
-  max-height: 300px;
-  margin: 0 auto;
+  max-width: 100%;
   border-radius: 0.5rem
 }
 .title {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   margin: 1.5rem 0;
 }
 .text {
