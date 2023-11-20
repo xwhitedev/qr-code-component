@@ -24,10 +24,10 @@ body {
   border-radius: 0.5rem
 }
 .title {
-  font-size: 1.5rem;
-  margin: 1.5rem 0;
+  font-size: 1.52rem;
+  margin: 1.3rem 0;
 }
 .text {
   color: hsl(220, 15%, 55%);
-  font-size: 1.15rem
+  font-size: 1.08rem
 }
